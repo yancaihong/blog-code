@@ -79,4 +79,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:yancaihong/yancaihong.github.io.git
-
+  branch: master
