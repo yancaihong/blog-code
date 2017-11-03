@@ -77,6 +77,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:yancaihong/blog-code.git
-  branch: master
+  type:
